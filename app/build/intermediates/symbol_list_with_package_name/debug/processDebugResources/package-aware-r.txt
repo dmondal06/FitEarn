@@ -663,6 +663,8 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable baseline_visibility_24
+drawable baseline_visibility_off_24
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -1043,6 +1045,7 @@ string common_signin_button_text_long
 string copy_toast_msg
 string default_error_message
 string default_popup_window_title
+string default_web_client_id
 string dropdown_menu
 string fallback_menu_item_copy_link
 string fallback_menu_item_open_in_browser

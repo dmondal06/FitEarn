@@ -1,11 +1,11 @@
-#Thu Oct 03 22:11:35 EDT 2024
-base.0=/Users/deepamondal/Downloads/BCS 371/FitEarn/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
-base.1=/Users/deepamondal/Downloads/BCS 371/FitEarn/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
-base.2=/Users/deepamondal/Downloads/BCS 371/FitEarn/app/build/intermediates/dex/debug/mergeProjectDexDebug/12/classes.dex
-base.3=/Users/deepamondal/Downloads/BCS 371/FitEarn/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
-base.4=/Users/deepamondal/Downloads/BCS 371/FitEarn/app/build/intermediates/dex/debug/mergeProjectDexDebug/5/classes.dex
-base.5=/Users/deepamondal/Downloads/BCS 371/FitEarn/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
-base.6=/Users/deepamondal/Downloads/BCS 371/FitEarn/app/build/intermediates/dex/debug/mergeExtDexDebug/classes3.dex
+#Tue Nov 05 13:36:01 EST 2024
+base.0=C\:\\Users\\Mitchell Lam\\AndroidStudioProjects\\FitEarn\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\Mitchell Lam\\AndroidStudioProjects\\FitEarn\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\Mitchell Lam\\AndroidStudioProjects\\FitEarn\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
+base.3=C\:\\Users\\Mitchell Lam\\AndroidStudioProjects\\FitEarn\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
+base.4=C\:\\Users\\Mitchell Lam\\AndroidStudioProjects\\FitEarn\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
+base.5=C\:\\Users\\Mitchell Lam\\AndroidStudioProjects\\FitEarn\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+base.6=C\:\\Users\\Mitchell Lam\\AndroidStudioProjects\\FitEarn\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes3.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=12/classes.dex

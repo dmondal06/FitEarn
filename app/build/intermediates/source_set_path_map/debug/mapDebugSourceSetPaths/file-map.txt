@@ -1,69 +1,69 @@
-com.example.fitearn.app-annotation-experimental-1.4.1-0 /Users/deepamondal/.gradle/caches/transforms-4/02cc78a23eb2194d699b8079446fd379/transformed/annotation-experimental-1.4.1/res
-com.example.fitearn.app-ui-geometry-release-1 /Users/deepamondal/.gradle/caches/transforms-4/12beee61e06bd74f5d5f633965dda95a/transformed/ui-geometry-release/res
-com.example.fitearn.app-emoji2-1.3.0-2 /Users/deepamondal/.gradle/caches/transforms-4/14014d1bc0e5f1200b95c175ef12c442/transformed/emoji2-1.3.0/res
-com.example.fitearn.app-ui-text-release-3 /Users/deepamondal/.gradle/caches/transforms-4/146889a92149aebd3c88cd551c900d28/transformed/ui-text-release/res
-com.example.fitearn.app-lifecycle-process-2.8.6-4 /Users/deepamondal/.gradle/caches/transforms-4/1498817d3f16e9b0f3162c40b805a636/transformed/lifecycle-process-2.8.6/res
-com.example.fitearn.app-activity-1.9.2-5 /Users/deepamondal/.gradle/caches/transforms-4/166b69150f40ae124a74d86a464dcfc2/transformed/activity-1.9.2/res
-com.example.fitearn.app-core-1.13.1-6 /Users/deepamondal/.gradle/caches/transforms-4/2263f061b19d94b6137aaa111ed09d98/transformed/core-1.13.1/res
-com.example.fitearn.app-foundation-release-7 /Users/deepamondal/.gradle/caches/transforms-4/22c8b0e6e086f52b88233b44b49f81f5/transformed/foundation-release/res
-com.example.fitearn.app-savedstate-ktx-1.2.1-8 /Users/deepamondal/.gradle/caches/transforms-4/25f52d161a3e4463d24399cbbca471bf/transformed/savedstate-ktx-1.2.1/res
-com.example.fitearn.app-foundation-layout-release-9 /Users/deepamondal/.gradle/caches/transforms-4/29ccdb60a2566271f3708ecd4c8e6eba/transformed/foundation-layout-release/res
-com.example.fitearn.app-lifecycle-viewmodel-release-10 /Users/deepamondal/.gradle/caches/transforms-4/31c1189476422178fb477438461a0a24/transformed/lifecycle-viewmodel-release/res
-com.example.fitearn.app-customview-poolingcontainer-1.0.0-11 /Users/deepamondal/.gradle/caches/transforms-4/376b02332aab0e5ff9d269e22b869b4a/transformed/customview-poolingcontainer-1.0.0/res
-com.example.fitearn.app-material-ripple-release-12 /Users/deepamondal/.gradle/caches/transforms-4/423439fe6d3a734227c059b94ff7aed2/transformed/material-ripple-release/res
-com.example.fitearn.app-runtime-release-13 /Users/deepamondal/.gradle/caches/transforms-4/48be35e48067ea6ee84c74ffb3e5482d/transformed/runtime-release/res
-com.example.fitearn.app-navigation-runtime-ktx-2.8.2-14 /Users/deepamondal/.gradle/caches/transforms-4/4a4c0509cd043a748ec5887b49544757/transformed/navigation-runtime-ktx-2.8.2/res
-com.example.fitearn.app-startup-runtime-1.1.1-15 /Users/deepamondal/.gradle/caches/transforms-4/4d8209c1e573f4bade16f8ad61613fab/transformed/startup-runtime-1.1.1/res
-com.example.fitearn.app-activity-compose-1.9.2-16 /Users/deepamondal/.gradle/caches/transforms-4/4ece3cbd6e02e385e8594c9f4e3223c4/transformed/activity-compose-1.9.2/res
-com.example.fitearn.app-activity-ktx-1.9.2-17 /Users/deepamondal/.gradle/caches/transforms-4/529a7ffc21ee8b14812fe562dc7b4ddd/transformed/activity-ktx-1.9.2/res
-com.example.fitearn.app-animation-release-18 /Users/deepamondal/.gradle/caches/transforms-4/53a4649607ab0406d5af23eb1aeed5c8/transformed/animation-release/res
-com.example.fitearn.app-ui-test-manifest-1.7.2-19 /Users/deepamondal/.gradle/caches/transforms-4/54272ed74f6000f66fe942c62b18c939/transformed/ui-test-manifest-1.7.2/res
-com.example.fitearn.app-play-services-base-18.5.0-20 /Users/deepamondal/.gradle/caches/transforms-4/59a9c1b3410c1cf157a40c2bdcf5fdd6/transformed/play-services-base-18.5.0/res
-com.example.fitearn.app-browser-1.4.0-21 /Users/deepamondal/.gradle/caches/transforms-4/5bb0603db21cfe727be280ee78b01bef/transformed/browser-1.4.0/res
-com.example.fitearn.app-ui-tooling-release-22 /Users/deepamondal/.gradle/caches/transforms-4/5d4e51d37adcde6502afd3f40f17f0bd/transformed/ui-tooling-release/res
-com.example.fitearn.app-runtime-saveable-release-23 /Users/deepamondal/.gradle/caches/transforms-4/6550e58141a1d45bae7b0836eb9691d1/transformed/runtime-saveable-release/res
-com.example.fitearn.app-lifecycle-runtime-ktx-release-24 /Users/deepamondal/.gradle/caches/transforms-4/68246fe31fe879e17ad6c5036fc2041c/transformed/lifecycle-runtime-ktx-release/res
-com.example.fitearn.app-ui-graphics-release-25 /Users/deepamondal/.gradle/caches/transforms-4/75067e59ddd7c2d4e22e789c75fcb715/transformed/ui-graphics-release/res
-com.example.fitearn.app-profileinstaller-1.3.1-26 /Users/deepamondal/.gradle/caches/transforms-4/826fe845227ed21c20310dec5c30a231/transformed/profileinstaller-1.3.1/res
-com.example.fitearn.app-play-services-auth-21.2.0-27 /Users/deepamondal/.gradle/caches/transforms-4/8842abc27d9262db6d6125da85498b29/transformed/play-services-auth-21.2.0/res
-com.example.fitearn.app-ads-adservices-java-1.0.0-beta05-28 /Users/deepamondal/.gradle/caches/transforms-4/8a6a36719db3c964f9a6b1f086c257f7/transformed/ads-adservices-java-1.0.0-beta05/res
-com.example.fitearn.app-graphics-path-1.0.1-29 /Users/deepamondal/.gradle/caches/transforms-4/972f10caa0971c03454744b24c3eba5c/transformed/graphics-path-1.0.1/res
-com.example.fitearn.app-play-services-basement-18.4.0-30 /Users/deepamondal/.gradle/caches/transforms-4/97d5f80ea0f4e330e9a344b6f8113c04/transformed/play-services-basement-18.4.0/res
-com.example.fitearn.app-fragment-1.5.7-31 /Users/deepamondal/.gradle/caches/transforms-4/a097beadbfe7731239f06b34fadbea6e/transformed/fragment-1.5.7/res
-com.example.fitearn.app-material3-release-32 /Users/deepamondal/.gradle/caches/transforms-4/a9ecc7c06352cc7f82134a69b911b8e1/transformed/material3-release/res
-com.example.fitearn.app-ui-unit-release-33 /Users/deepamondal/.gradle/caches/transforms-4/adade4b7a0de433b75a2b2c513e65bc7/transformed/ui-unit-release/res
-com.example.fitearn.app-ui-tooling-data-release-34 /Users/deepamondal/.gradle/caches/transforms-4/adc8e1d4a08d4e756b2ae9d79888ef01/transformed/ui-tooling-data-release/res
-com.example.fitearn.app-navigation-common-ktx-2.8.2-35 /Users/deepamondal/.gradle/caches/transforms-4/ae3b071c7f22dd1eed94058af5a1ad3d/transformed/navigation-common-ktx-2.8.2/res
-com.example.fitearn.app-lifecycle-viewmodel-savedstate-2.8.6-36 /Users/deepamondal/.gradle/caches/transforms-4/ae42ab6cad1bee9c01653bbc2d910db9/transformed/lifecycle-viewmodel-savedstate-2.8.6/res
-com.example.fitearn.app-material-release-37 /Users/deepamondal/.gradle/caches/transforms-4/afb409dca9075351554f2c3315e0a414/transformed/material-release/res
-com.example.fitearn.app-credentials-1.2.0-rc01-38 /Users/deepamondal/.gradle/caches/transforms-4/b3a1a85133405c917b3da2d842238b6c/transformed/credentials-1.2.0-rc01/res
-com.example.fitearn.app-emoji2-views-helper-1.3.0-39 /Users/deepamondal/.gradle/caches/transforms-4/ba206688d2c9dd836fb578a405f3cb95/transformed/emoji2-views-helper-1.3.0/res
-com.example.fitearn.app-core-ktx-1.13.1-40 /Users/deepamondal/.gradle/caches/transforms-4/c52945ccb31979b3bdd61081d59a6f04/transformed/core-ktx-1.13.1/res
-com.example.fitearn.app-navigation-runtime-2.8.2-41 /Users/deepamondal/.gradle/caches/transforms-4/c865386e9b600d32b72e387c6fc7878e/transformed/navigation-runtime-2.8.2/res
-com.example.fitearn.app-lifecycle-livedata-core-2.8.6-42 /Users/deepamondal/.gradle/caches/transforms-4/c9d390b3adaa681d142a6b6ff6f60dc2/transformed/lifecycle-livedata-core-2.8.6/res
-com.example.fitearn.app-ui-tooling-preview-release-43 /Users/deepamondal/.gradle/caches/transforms-4/cb7301e1322b1ba81fb10cd4d7d9ba1e/transformed/ui-tooling-preview-release/res
-com.example.fitearn.app-firebase-common-21.0.0-44 /Users/deepamondal/.gradle/caches/transforms-4/cb9346d58b83db9eb77d515e47bf70f0/transformed/firebase-common-21.0.0/res
-com.example.fitearn.app-lifecycle-runtime-release-45 /Users/deepamondal/.gradle/caches/transforms-4/cc541a7fd44648f917b9cb9f731fab4f/transformed/lifecycle-runtime-release/res
-com.example.fitearn.app-savedstate-1.2.1-46 /Users/deepamondal/.gradle/caches/transforms-4/d0ea1c32f978480c0346be87011d9d39/transformed/savedstate-1.2.1/res
-com.example.fitearn.app-core-runtime-2.2.0-47 /Users/deepamondal/.gradle/caches/transforms-4/d957fac1916697d4100455cbc0ab9051/transformed/core-runtime-2.2.0/res
-com.example.fitearn.app-navigation-compose-2.8.2-48 /Users/deepamondal/.gradle/caches/transforms-4/d95810db2a5e6dda8e199d4062b99eb1/transformed/navigation-compose-2.8.2/res
-com.example.fitearn.app-lifecycle-viewmodel-compose-release-49 /Users/deepamondal/.gradle/caches/transforms-4/da102f3a71212a38cab27d63a1fcefc7/transformed/lifecycle-viewmodel-compose-release/res
-com.example.fitearn.app-navigation-common-2.8.2-50 /Users/deepamondal/.gradle/caches/transforms-4/df574007fade3969fe6603ab7708f7e9/transformed/navigation-common-2.8.2/res
-com.example.fitearn.app-lifecycle-viewmodel-ktx-2.8.6-51 /Users/deepamondal/.gradle/caches/transforms-4/e4469dcd8a318ae036fb6e2cf27cfd61/transformed/lifecycle-viewmodel-ktx-2.8.6/res
-com.example.fitearn.app-material-icons-core-release-52 /Users/deepamondal/.gradle/caches/transforms-4/e51bf1402892fee93cf29dcd9887ad14/transformed/material-icons-core-release/res
-com.example.fitearn.app-credentials-play-services-auth-1.2.0-rc01-53 /Users/deepamondal/.gradle/caches/transforms-4/e7b79b94216f7c1cdcfa4032edc73d81/transformed/credentials-play-services-auth-1.2.0-rc01/res
-com.example.fitearn.app-play-services-measurement-api-22.1.2-54 /Users/deepamondal/.gradle/caches/transforms-4/ee920b79783e04befa2500a699cc6c75/transformed/play-services-measurement-api-22.1.2/res
-com.example.fitearn.app-ui-util-release-55 /Users/deepamondal/.gradle/caches/transforms-4/f2dd24b6829cf3e0c159a0b8b7e0eb5f/transformed/ui-util-release/res
-com.example.fitearn.app-animation-core-release-56 /Users/deepamondal/.gradle/caches/transforms-4/f397bf283db8d7582a9f16678a404cd7/transformed/animation-core-release/res
-com.example.fitearn.app-lifecycle-runtime-compose-release-57 /Users/deepamondal/.gradle/caches/transforms-4/f3c2040e9fccdd8f846f3d4023e3332c/transformed/lifecycle-runtime-compose-release/res
-com.example.fitearn.app-ui-release-58 /Users/deepamondal/.gradle/caches/transforms-4/f42a23304ba30d2c331b68bc830f7eec/transformed/ui-release/res
-com.example.fitearn.app-appcompat-resources-1.7.0-59 /Users/deepamondal/.gradle/caches/transforms-4/f478b9b35c9f8d8446e83e8197577cd8/transformed/appcompat-resources-1.7.0/res
-com.example.fitearn.app-ads-adservices-1.0.0-beta05-60 /Users/deepamondal/.gradle/caches/transforms-4/fccc75f8a709ce302e204accb6ea0ad2/transformed/ads-adservices-1.0.0-beta05/res
-com.example.fitearn.app-appcompat-1.7.0-61 /Users/deepamondal/.gradle/caches/transforms-4/ff3c953996c6f82b30ad7ce6c2490425/transformed/appcompat-1.7.0/res
-com.example.fitearn.app-res-62 /Users/deepamondal/Downloads/BCS 371/FitEarn/app/build/generated/res/processDebugGoogleServices
-com.example.fitearn.app-resValues-63 /Users/deepamondal/Downloads/BCS 371/FitEarn/app/build/generated/res/resValues/debug
-com.example.fitearn.app-packageDebugResources-64 /Users/deepamondal/Downloads/BCS 371/FitEarn/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.example.fitearn.app-packageDebugResources-65 /Users/deepamondal/Downloads/BCS 371/FitEarn/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.example.fitearn.app-debug-66 /Users/deepamondal/Downloads/BCS 371/FitEarn/app/build/intermediates/merged_res/debug/mergeDebugResources
-com.example.fitearn.app-debug-67 /Users/deepamondal/Downloads/BCS 371/FitEarn/app/src/debug/res
-com.example.fitearn.app-main-68 /Users/deepamondal/Downloads/BCS 371/FitEarn/app/src/main/res
+com.example.fitearn.app-play-services-measurement-api-22.1.2-0 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\04dbca2e1465a89d9c7c1b67857d6219\transformed\play-services-measurement-api-22.1.2\res
+com.example.fitearn.app-lifecycle-livedata-core-2.8.6-1 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\04e44af0300213bcdd8fed6501f97ec3\transformed\lifecycle-livedata-core-2.8.6\res
+com.example.fitearn.app-lifecycle-runtime-release-2 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\06b7eeddb9d563572633b33521f2f125\transformed\lifecycle-runtime-release\res
+com.example.fitearn.app-core-runtime-2.2.0-3 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\07e8eef3f54a7dd7e175c8aa4103ed15\transformed\core-runtime-2.2.0\res
+com.example.fitearn.app-core-1.13.1-4 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\0dd3318c3e9e4a4da6d679af2f5f5262\transformed\core-1.13.1\res
+com.example.fitearn.app-emoji2-1.3.0-5 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\17cdbb8d5d7262f0e402cc36cc62fad7\transformed\emoji2-1.3.0\res
+com.example.fitearn.app-material-release-6 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\19de9dde8f2851d014056639c93c954f\transformed\material-release\res
+com.example.fitearn.app-credentials-play-services-auth-1.2.0-rc01-7 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\1b43c31816526852a7452f0c8859041e\transformed\credentials-play-services-auth-1.2.0-rc01\res
+com.example.fitearn.app-lifecycle-runtime-compose-release-8 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\1da4f760285ab4b4b570b1424d0edd77\transformed\lifecycle-runtime-compose-release\res
+com.example.fitearn.app-activity-compose-1.9.2-9 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\208a6e5953cb721684beddf85fa85e19\transformed\activity-compose-1.9.2\res
+com.example.fitearn.app-annotation-experimental-1.4.1-10 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\24dbc006711034db4db34e126e3752bf\transformed\annotation-experimental-1.4.1\res
+com.example.fitearn.app-fragment-1.5.7-11 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\2585fe17eda6104b56bc807f858525b1\transformed\fragment-1.5.7\res
+com.example.fitearn.app-runtime-release-12 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\321f06e79e1334bca8fd8fb5b3eddada\transformed\runtime-release\res
+com.example.fitearn.app-material3-release-13 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\3327ce9318eea6c2425f45b8ee973ddc\transformed\material3-release\res
+com.example.fitearn.app-navigation-runtime-2.8.2-14 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\37449c63970f18b135a76131de40ed22\transformed\navigation-runtime-2.8.2\res
+com.example.fitearn.app-ui-text-release-15 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\3b81f28c0d1f010893374493f3d7935a\transformed\ui-text-release\res
+com.example.fitearn.app-firebase-common-21.0.0-16 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\3c1281d682092a789a4278287983601d\transformed\firebase-common-21.0.0\res
+com.example.fitearn.app-lifecycle-viewmodel-savedstate-2.8.6-17 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\45c40824b532317e19e8550e6df8bebd\transformed\lifecycle-viewmodel-savedstate-2.8.6\res
+com.example.fitearn.app-play-services-base-18.5.0-18 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\517a9c6c2e46f51c5c72f34301188e45\transformed\play-services-base-18.5.0\res
+com.example.fitearn.app-emoji2-views-helper-1.3.0-19 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\53cdd006e982ed506c192cd2d8113910\transformed\emoji2-views-helper-1.3.0\res
+com.example.fitearn.app-animation-release-20 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\5ec5bd8371d70ec9ad719a3c18fe19a2\transformed\animation-release\res
+com.example.fitearn.app-navigation-common-2.8.2-21 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\5f1a09500c70a4721a319c1500ae9eba\transformed\navigation-common-2.8.2\res
+com.example.fitearn.app-browser-1.4.0-22 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\65b1a91cc028338becc73312fcab9c31\transformed\browser-1.4.0\res
+com.example.fitearn.app-material-ripple-release-23 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\6f9d1af064beb6ede3945b60b60f5917\transformed\material-ripple-release\res
+com.example.fitearn.app-navigation-compose-2.8.2-24 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\70ac793290b481d9c265cd16d948f0b1\transformed\navigation-compose-2.8.2\res
+com.example.fitearn.app-startup-runtime-1.1.1-25 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\82fef33b6e5ab6a0acfec6135ee992f6\transformed\startup-runtime-1.1.1\res
+com.example.fitearn.app-navigation-runtime-ktx-2.8.2-26 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\86d87fd75e0bce3ca0fadeb069ac4895\transformed\navigation-runtime-ktx-2.8.2\res
+com.example.fitearn.app-lifecycle-runtime-ktx-release-27 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\8b5244e3e8f12e30573a2f65919f6c61\transformed\lifecycle-runtime-ktx-release\res
+com.example.fitearn.app-material-icons-core-release-28 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\8f5fbc622ceb69a20f73319f556220cb\transformed\material-icons-core-release\res
+com.example.fitearn.app-navigation-common-ktx-2.8.2-29 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\91c65ac22da67282d93c1bec7b44e384\transformed\navigation-common-ktx-2.8.2\res
+com.example.fitearn.app-credentials-1.2.0-rc01-30 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\936400638e4d76e972f42a4234fc45f6\transformed\credentials-1.2.0-rc01\res
+com.example.fitearn.app-profileinstaller-1.3.1-31 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\9b5541ed5b64904e470bba8c48deb14a\transformed\profileinstaller-1.3.1\res
+com.example.fitearn.app-runtime-saveable-release-32 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\9e4820b756e707e4a52a44788a49a9a7\transformed\runtime-saveable-release\res
+com.example.fitearn.app-ui-geometry-release-33 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\9fd6f51f58fd462b9dd27cc1c9aa8607\transformed\ui-geometry-release\res
+com.example.fitearn.app-ui-release-34 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\a3e9d9f3240cbbea13a2c01516068cb0\transformed\ui-release\res
+com.example.fitearn.app-ui-tooling-release-35 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\ad761de3555bc2900b78d198a7f1522c\transformed\ui-tooling-release\res
+com.example.fitearn.app-core-ktx-1.13.1-36 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\ad7844e69184b5eb1135c8165f62f770\transformed\core-ktx-1.13.1\res
+com.example.fitearn.app-animation-core-release-37 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\ae74c64c9efe68e7b7ab6390e773b1e0\transformed\animation-core-release\res
+com.example.fitearn.app-ui-util-release-38 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\b163030a3d7ea02c7c7237662509c76e\transformed\ui-util-release\res
+com.example.fitearn.app-customview-poolingcontainer-1.0.0-39 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\b3c14f8c2c43483cb7413d2b892cbbe0\transformed\customview-poolingcontainer-1.0.0\res
+com.example.fitearn.app-ads-adservices-java-1.0.0-beta05-40 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\bfd79c0c3bdd0a7ab6c38fb7e6f46105\transformed\ads-adservices-java-1.0.0-beta05\res
+com.example.fitearn.app-savedstate-1.2.1-41 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\c38a73a7a72aff8bcbdfa832b6ea0fad\transformed\savedstate-1.2.1\res
+com.example.fitearn.app-ads-adservices-1.0.0-beta05-42 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\c62b38f77517b7e18777c2c601e51634\transformed\ads-adservices-1.0.0-beta05\res
+com.example.fitearn.app-ui-unit-release-43 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\c6b07f33fea33bdca03721150dfdb76b\transformed\ui-unit-release\res
+com.example.fitearn.app-foundation-layout-release-44 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\c82f5c3e8805d6f22514903c562ee24a\transformed\foundation-layout-release\res
+com.example.fitearn.app-appcompat-resources-1.7.0-45 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\d0b472824713176650fd71a1b70f61e4\transformed\appcompat-resources-1.7.0\res
+com.example.fitearn.app-lifecycle-viewmodel-compose-release-46 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\d2111fa51480816d2c83ed5df454cdc1\transformed\lifecycle-viewmodel-compose-release\res
+com.example.fitearn.app-ui-tooling-preview-release-47 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\d9f29d730ee3bee00788050af5f99158\transformed\ui-tooling-preview-release\res
+com.example.fitearn.app-activity-ktx-1.9.2-48 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\dd53e605fda1b80d22650cc0b0eedcc5\transformed\activity-ktx-1.9.2\res
+com.example.fitearn.app-ui-test-manifest-1.7.3-49 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\de9c4075d61c44612d1bfa43348b6200\transformed\ui-test-manifest-1.7.3\res
+com.example.fitearn.app-play-services-basement-18.4.0-50 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\e1c1c6ba973e9fcb4dfa9184134d4937\transformed\play-services-basement-18.4.0\res
+com.example.fitearn.app-ui-graphics-release-51 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\e1ce3247dff164ff2196535efa4bf71a\transformed\ui-graphics-release\res
+com.example.fitearn.app-foundation-release-52 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\e2741f8e2155ef5d3d17f97294c619bb\transformed\foundation-release\res
+com.example.fitearn.app-lifecycle-viewmodel-ktx-2.8.6-53 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\e28cf83965c8e3568148f55582a90376\transformed\lifecycle-viewmodel-ktx-2.8.6\res
+com.example.fitearn.app-lifecycle-process-2.8.6-54 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\e3891f1a7261799a39448b4430ca9156\transformed\lifecycle-process-2.8.6\res
+com.example.fitearn.app-activity-1.9.2-55 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\e55092a975bd8e480fd6a09533973767\transformed\activity-1.9.2\res
+com.example.fitearn.app-play-services-auth-21.2.0-56 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\ed725bd708a43ff29e8630643f71469c\transformed\play-services-auth-21.2.0\res
+com.example.fitearn.app-lifecycle-viewmodel-release-57 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\f4fbd93354917add3bee8a4fe8f7cbc7\transformed\lifecycle-viewmodel-release\res
+com.example.fitearn.app-ui-tooling-data-release-58 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\f61a069408d7142e92e5d76ff0dbbaff\transformed\ui-tooling-data-release\res
+com.example.fitearn.app-appcompat-1.7.0-59 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\f961dae9aebf99d0dfce11ea37d2cd7f\transformed\appcompat-1.7.0\res
+com.example.fitearn.app-savedstate-ktx-1.2.1-60 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\fb53e25b62eac863e984c9624e64dc59\transformed\savedstate-ktx-1.2.1\res
+com.example.fitearn.app-graphics-path-1.0.1-61 C:\Users\Mitchell Lam\.gradle\caches\transforms-4\fec177a74f71a8715e2932e23f832d58\transformed\graphics-path-1.0.1\res
+com.example.fitearn.app-res-62 C:\Users\Mitchell Lam\AndroidStudioProjects\FitEarn\app\build\generated\res\processDebugGoogleServices
+com.example.fitearn.app-resValues-63 C:\Users\Mitchell Lam\AndroidStudioProjects\FitEarn\app\build\generated\res\resValues\debug
+com.example.fitearn.app-packageDebugResources-64 C:\Users\Mitchell Lam\AndroidStudioProjects\FitEarn\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.fitearn.app-packageDebugResources-65 C:\Users\Mitchell Lam\AndroidStudioProjects\FitEarn\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.fitearn.app-debug-66 C:\Users\Mitchell Lam\AndroidStudioProjects\FitEarn\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.fitearn.app-debug-67 C:\Users\Mitchell Lam\AndroidStudioProjects\FitEarn\app\src\debug\res
+com.example.fitearn.app-main-68 C:\Users\Mitchell Lam\AndroidStudioProjects\FitEarn\app\src\main\res

@@ -13,6 +13,7 @@ fun AppNavigator() {
     NavHost(navController = navController, startDestination = "login") {
         composable("login") { LoginPage(navController) }
         composable("dashboard") { DashboardPage(navController) }
+        composable("registration"){ RegistrationPage(navController)}
     }
 }
 
@@ -21,7 +22,4 @@ fun DashboardPage(navController: NavHostController) {
 
 }
 
-@Composable
-fun LoginPage(navController: NavHostController) {
 
-}
