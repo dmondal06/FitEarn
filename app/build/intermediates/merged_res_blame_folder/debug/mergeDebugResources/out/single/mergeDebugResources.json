@@ -1,5 +1,9 @@
 [
     {
+        "merged": "com.example.fitearn.app-debug-67:/drawable_baseline_visibility_off_24.xml.flat",
+        "source": "com.example.fitearn.app-main-69:/drawable/baseline_visibility_off_24.xml"
+    },
+    {
         "merged": "com.example.fitearn.app-debug-67:/mipmap-anydpi_ic_launcher.xml.flat",
         "source": "com.example.fitearn.app-main-69:/mipmap-anydpi/ic_launcher.xml"
     },
@@ -26,6 +30,10 @@
     {
         "merged": "com.example.fitearn.app-debug-67:/mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "com.example.fitearn.app-main-69:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.fitearn.app-debug-67:/drawable_baseline_visibility_24.xml.flat",
+        "source": "com.example.fitearn.app-main-69:/drawable/baseline_visibility_24.xml"
     },
     {
         "merged": "com.example.fitearn.app-debug-67:/xml_backup_rules.xml.flat",

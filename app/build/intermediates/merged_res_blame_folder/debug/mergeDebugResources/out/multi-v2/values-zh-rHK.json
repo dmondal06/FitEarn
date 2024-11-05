@@ -4,7 +4,7 @@
             "outputFile": "com.example.fitearn.app-mergeDebugResources-65:/values-zh-rHK/values-zh-rHK.xml",
             "map": [
                 {
-                    "source": "/Users/deepamondal/.gradle/caches/transforms-4/ff3c953996c6f82b30ad7ce6c2490425/transformed/appcompat-1.7.0/res/values-zh-rHK/values-zh-rHK.xml",
+                    "source": "C:\\Users\\Mitchell Lam\\.gradle\\caches\\transforms-4\\6cf627887248114c69b76b9039638560\\transformed\\appcompat-1.7.0\\res\\values-zh-rHK\\values-zh-rHK.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/deepamondal/.gradle/caches/transforms-4/b3a1a85133405c917b3da2d842238b6c/transformed/credentials-1.2.0-rc01/res/values-zh-rHK/values-zh-rHK.xml",
+                    "source": "C:\\Users\\Mitchell Lam\\.gradle\\caches\\transforms-4\\2f7e8341d139fbe5902689145168535e\\transformed\\credentials-1.2.0-rc01\\res\\values-zh-rHK\\values-zh-rHK.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -38,24 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/deepamondal/.gradle/caches/transforms-4/f42a23304ba30d2c331b68bc830f7eec/transformed/ui-release/res/values-zh-rHK/values-zh-rHK.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,181,255,343,434,512,586,663,741,815,888,963,1030,1103,1173,1242,1317,1382",
-                        "endColumns": "75,73,87,90,77,73,76,77,73,72,74,66,72,69,68,74,64,115",
-                        "endOffsets": "176,250,338,429,507,581,658,736,810,883,958,1025,1098,1168,1237,1312,1377,1493"
-                    },
-                    "to": {
-                        "startLines": "38,39,59,60,61,65,66,124,125,126,127,129,130,131,132,134,135,136",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "3542,3618,5601,5689,5780,6144,6218,11816,11894,11968,12041,12195,12262,12335,12405,12575,12650,12715",
-                        "endColumns": "75,73,87,90,77,73,76,77,73,72,74,66,72,69,68,74,64,115",
-                        "endOffsets": "3613,3687,5684,5775,5853,6213,6290,11889,11963,12036,12111,12257,12330,12400,12469,12645,12710,12826"
-                    }
-                },
-                {
-                    "source": "/Users/deepamondal/.gradle/caches/transforms-4/59a9c1b3410c1cf157a40c2bdcf5fdd6/transformed/play-services-base-18.5.0/res/values-zh-rHK/values.xml",
+                    "source": "C:\\Users\\Mitchell Lam\\.gradle\\caches\\transforms-4\\33a6698881ae2182e761631e6f9615fd\\transformed\\play-services-base-18.5.0\\res\\values-zh-rHK\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -72,41 +55,24 @@
                     }
                 },
                 {
-                    "source": "/Users/deepamondal/.gradle/caches/transforms-4/2263f061b19d94b6137aaa111ed09d98/transformed/core-1.13.1/res/values-zh-rHK/values-zh-rHK.xml",
+                    "source": "C:\\Users\\Mitchell Lam\\.gradle\\caches\\transforms-4\\e1d1e301fc94ed138d55f627b459c3d9\\transformed\\ui-release\\res\\values-zh-rHK\\values-zh-rHK.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,147,246,340,434,527,620,716",
-                        "endColumns": "91,98,93,93,92,92,95,100",
-                        "endOffsets": "142,241,335,429,522,615,711,812"
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,181,255,343,434,512,586,663,741,815,888,963,1030,1103,1173,1242,1317,1382",
+                        "endColumns": "75,73,87,90,77,73,76,77,73,72,74,66,72,69,68,74,64,115",
+                        "endOffsets": "176,250,338,429,507,581,658,736,810,883,958,1025,1098,1168,1237,1312,1377,1493"
                     },
                     "to": {
-                        "startLines": "31,32,33,34,35,36,37,133",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "2881,2973,3072,3166,3260,3353,3446,12474",
-                        "endColumns": "91,98,93,93,92,92,95,100",
-                        "endOffsets": "2968,3067,3161,3255,3348,3441,3537,12570"
+                        "startLines": "38,39,59,60,61,65,66,124,125,126,127,129,130,131,132,134,135,136",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3542,3618,5601,5689,5780,6144,6218,11816,11894,11968,12041,12195,12262,12335,12405,12575,12650,12715",
+                        "endColumns": "75,73,87,90,77,73,76,77,73,72,74,66,72,69,68,74,64,115",
+                        "endOffsets": "3613,3687,5684,5775,5853,6213,6290,11889,11963,12036,12111,12257,12330,12400,12469,12645,12710,12826"
                     }
                 },
                 {
-                    "source": "/Users/deepamondal/.gradle/caches/transforms-4/22c8b0e6e086f52b88233b44b49f81f5/transformed/foundation-release/res/values-zh-rHK/values-zh-rHK.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,136",
-                        "endColumns": "80,76",
-                        "endOffsets": "131,208"
-                    },
-                    "to": {
-                        "startLines": "137,138",
-                        "startColumns": "4,4",
-                        "startOffsets": "12831,12912",
-                        "endColumns": "80,76",
-                        "endOffsets": "12907,12984"
-                    }
-                },
-                {
-                    "source": "/Users/deepamondal/.gradle/caches/transforms-4/97d5f80ea0f4e330e9a344b6f8113c04/transformed/play-services-basement-18.4.0/res/values-zh-rHK/values.xml",
+                    "source": "C:\\Users\\Mitchell Lam\\.gradle\\caches\\transforms-4\\841e3855cf854c9a7708cd73101c00b2\\transformed\\play-services-basement-18.4.0\\res\\values-zh-rHK\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -123,7 +89,24 @@
                     }
                 },
                 {
-                    "source": "/Users/deepamondal/.gradle/caches/transforms-4/a9ecc7c06352cc7f82134a69b911b8e1/transformed/material3-release/res/values-zh-rHK/values-zh-rHK.xml",
+                    "source": "C:\\Users\\Mitchell Lam\\.gradle\\caches\\transforms-4\\07595e2d153ec63f0ddfb23e83e0de4f\\transformed\\browser-1.4.0\\res\\values-zh-rHK\\values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,138,230,331",
+                        "endColumns": "82,91,100,92",
+                        "endOffsets": "133,225,326,419"
+                    },
+                    "to": {
+                        "startLines": "58,62,63,64",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "5518,5858,5950,6051",
+                        "endColumns": "82,91,100,92",
+                        "endOffsets": "5596,5945,6046,6139"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Mitchell Lam\\.gradle\\caches\\transforms-4\\05f8238c00b05ce8d49381dce9954959\\transformed\\material3-release\\res\\values-zh-rHK\\values-zh-rHK.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -140,20 +123,37 @@
                     }
                 },
                 {
-                    "source": "/Users/deepamondal/.gradle/caches/transforms-4/5bb0603db21cfe727be280ee78b01bef/transformed/browser-1.4.0/res/values-zh-rHK/values-zh-rHK.xml",
+                    "source": "C:\\Users\\Mitchell Lam\\.gradle\\caches\\transforms-4\\409aae71a92622c4cc264c1c6c208fbe\\transformed\\foundation-release\\res\\values-zh-rHK\\values-zh-rHK.xml",
                     "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,138,230,331",
-                        "endColumns": "82,91,100,92",
-                        "endOffsets": "133,225,326,419"
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,136",
+                        "endColumns": "80,76",
+                        "endOffsets": "131,208"
                     },
                     "to": {
-                        "startLines": "58,62,63,64",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "5518,5858,5950,6051",
-                        "endColumns": "82,91,100,92",
-                        "endOffsets": "5596,5945,6046,6139"
+                        "startLines": "137,138",
+                        "startColumns": "4,4",
+                        "startOffsets": "12831,12912",
+                        "endColumns": "80,76",
+                        "endOffsets": "12907,12984"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Mitchell Lam\\.gradle\\caches\\transforms-4\\cf35a3209907378d0743d5378fc0e8a1\\transformed\\core-1.13.1\\res\\values-zh-rHK\\values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,147,246,340,434,527,620,716",
+                        "endColumns": "91,98,93,93,92,92,95,100",
+                        "endOffsets": "142,241,335,429,522,615,711,812"
+                    },
+                    "to": {
+                        "startLines": "31,32,33,34,35,36,37,133",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "2881,2973,3072,3166,3260,3353,3446,12474",
+                        "endColumns": "91,98,93,93,92,92,95,100",
+                        "endOffsets": "2968,3067,3161,3255,3348,3441,3537,12570"
                     }
                 }
             ]

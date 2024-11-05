@@ -4,7 +4,7 @@
             "outputFile": "com.example.fitearn.app-mergeDebugResources-65:/values-v18/values-v18.xml",
             "map": [
                 {
-                    "source": "/Users/deepamondal/.gradle/caches/transforms-4/ff3c953996c6f82b30ad7ce6c2490425/transformed/appcompat-1.7.0/res/values-v18/values-v18.xml",
+                    "source": "C:\\Users\\Mitchell Lam\\.gradle\\caches\\transforms-4\\6cf627887248114c69b76b9039638560\\transformed\\appcompat-1.7.0\\res\\values-v18\\values-v18.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

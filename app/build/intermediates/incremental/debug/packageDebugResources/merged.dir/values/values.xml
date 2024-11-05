@@ -8,11 +8,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">FitEarn</string>
+    <string name="default_web_client_id" translatable="false">270508702954-751skitmr7nqp4eb2eocghv9jgrdkk1d.apps.googleusercontent.com</string>
     <string name="gcm_defaultSenderId" translatable="false">270508702954</string>
     <string name="google_api_key" translatable="false">AIzaSyBXZ31VPui1mezGzd5cCgZhlu6zEpH-aUc</string>
-    <string name="google_app_id" translatable="false">1:270508702954:android:64a7e3ebce97333a7f6b93</string>
+    <string name="google_app_id" translatable="false">1:270508702954:android:a165279e5e2921307f6b93</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBXZ31VPui1mezGzd5cCgZhlu6zEpH-aUc</string>
-    <string name="google_storage_bucket" translatable="false">fit-earn-a114b.appspot.com</string>
+    <string name="google_storage_bucket" translatable="false">fit-earn-a114b.firebasestorage.app</string>
     <string name="project_id" translatable="false">fit-earn-a114b</string>
     <style name="Theme.FitEarn" parent="android:Theme.Material.Light.NoActionBar"/>
 </resources>
