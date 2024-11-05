@@ -27,4 +27,7 @@ local.properties
 /api_secrets/
 
 
-/app/google-services.json
+
+api_secrets.properties
+google-services.json
+

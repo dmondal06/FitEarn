@@ -9,17 +9,11 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="com.example.fitearn" />
-                  <option name="mobileSdkAppId" value="1:270508702954:android:64a7e3ebce97333a7f6b93" />
-                  <option name="projectId" value="fit-earn-a114b" />
-                  <option name="projectNumber" value="270508702954" />
+                  <option name="appId" value="PLACEHOLDER" />
+                  <option name="mobileSdkAppId" value="" />
+                  <option name="projectId" value="" />
+                  <option name="projectNumber" value="" />
                 </ConnectionSetting>
-              </option>
-              <option name="failureTypes">
-                <list>
-                  <option value="ANR" />
-                  <option value="NON_FATAL" />
-                </list>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
               <option name="timeIntervalDays" value="THIRTY_DAYS" />
