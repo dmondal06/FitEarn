@@ -56,8 +56,7 @@ dependencies {
     val appCenterSdkVersion = "5.0.4"
 
     // App Center Dependencies
-    implementation(libs.appcenter.analytics)
-    implementation(libs.appcenter.crashes)
+ 
 
     // Firebase BoM for consistent versions of Firebase libraries
     implementation(platform(libs.firebase.bom))
