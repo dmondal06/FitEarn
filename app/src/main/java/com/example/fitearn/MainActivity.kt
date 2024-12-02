@@ -3,6 +3,7 @@ package com.example.fitearn
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
+import com.example.fitearn.AppNavigator
 import com.example.fitearn.ui.theme.FitEarnTheme
 import com.google.firebase.FirebaseApp
 
